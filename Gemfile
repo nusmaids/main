@@ -45,3 +45,8 @@ gem 'rails_12factor', group: :production
 
 gem 'simple_form'
 gem 'twitter-bootstrap-rails'
+
+gem 'workflow'
+gem 'jquery-datatables-rails'
+gem 'active_enum'
+gem "paranoia", "~> 2.0"
