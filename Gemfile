@@ -42,3 +42,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin]
 
 # For Heroku
 gem 'rails_12factor', group: :production
+
+gem 'simple_form'
+gem 'twitter-bootstrap-rails'
