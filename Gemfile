@@ -49,3 +49,4 @@ gem 'twitter-bootstrap-rails'
 gem 'workflow'
 gem 'jquery-datatables-rails'
 gem 'active_enum'
+gem "paranoia", "~> 2.0"
